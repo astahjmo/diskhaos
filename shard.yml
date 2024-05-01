@@ -1,0 +1,12 @@
+name: diskhaos
+version: 0.1.0
+
+authors:
+  - astahjmo <contato.johnatan373@gmail.com>
+
+targets:
+  diskhaos:
+    main: src/diskhaos.cr
+crystal: '>= 1.12.1'
+
+license: MIT
